@@ -1,4 +1,4 @@
-# JSON-Merge
+# JSON-Merge - Freshworks assignment
 
 JSON-Merge is a Python utility for merging JSON files.
 
